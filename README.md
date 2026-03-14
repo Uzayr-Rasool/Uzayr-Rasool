@@ -1,48 +1,42 @@
 # Hi 👋 I'm Uzair Rasool (Zerry)
 
 🎓 BS Computer Science Student at COMSATS University Islamabad  
-💻 Passionate about Programming and Software Development  
+💻 Passionate about Software Development and Problem Solving  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 1st Semester BS Computer Science Student
-- ☕ Learning Java
-- ⚡ Experience with C++
-- 🐍 Programming with Python
-- 🌐 Exploring Web Development
+- Strong programming foundations in **C and C++**
+- Experience with **Java, Python, and Web Development**
+- Built a **Student Management System** as a university project
+- Currently improving my skills in **Data Structures and Software Development**
 
 ---
 
 ## 🚀 Technologies
 
-Java  
-C++  
-Python  
-HTML  
-CSS  
-JavaScript  
-Git & GitHub  
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
 ---
 
 ## 📚 Currently Learning
 
-- Object Oriented Programming
-- Data Structures
+- Advanced Java concepts
+- Data Structures & Algorithms
 - Web Development
 
 ---
 
 ## 🎯 Goals
 
-- Improve problem solving skills
-- Build useful projects
-- Become a skilled software developer
-
----
-
-## 📫 Contact
-
-Email: uzayrrasool56@gmail.com
+- Build real-world software projects
+- Strengthen problem-solving skills
+- Become a professional software developer
