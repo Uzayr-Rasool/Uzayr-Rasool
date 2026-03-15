@@ -10,7 +10,8 @@
 - Strong programming foundations in **C and C++**
 - Experience with **Java, Python, and Web Development**
 - Built a **Student Management System** as a university project
-- Currently improving my skills in **Data Structures and Software Development**
+- Currently focusing on **Web Development (HTML, CSS, JavaScript)**
+- Consistently uploading **Java programs on GitHub to maintain coding practice**
 
 ---
 
@@ -29,14 +30,23 @@
 
 ## 📚 Currently Learning
 
-- Advanced Java concepts
+- Web Development (HTML, CSS, JavaScript)
 - Data Structures & Algorithms
-- Web Development
+- Software Development Practices
 
 ---
 
-## 🎯 Goals
+## 🎯 Future Goals
 
+- Become a **Full Stack Web Developer**
+- Learn **Python for Data Science**
 - Build real-world software projects
-- Strengthen problem-solving skills
-- Become a professional software developer
+- Contribute to open source
+
+---
+
+## 📌 Current Activity
+
+- Uploading **daily Java programs** on GitHub
+- Learning **Frontend Web Development**
+- Building small programming projects
